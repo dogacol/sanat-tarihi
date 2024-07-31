@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "artists/juan-gris.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "artists/juan-gris.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "artists/juan-gris.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md"
+                "file": "artists/juan-gris.md"
               }
             }
           }
@@ -148,6 +148,37 @@
   },
   "active": "cc9f016219fcf107",
   "lastOpenFiles": [
+    "artists/georges-braque.md",
+    "artists/pablo-picasso.md",
+    "artists/ernst-ludwig-kirchner.md",
+    "artists/egon-schiele.md",
+    "artists/edvard-munch.md",
+    "artists/pierre-auguste-renoir.md",
+    "movements/empresyonizm.md",
+    "artists/edgar-degas.md",
+    "chapters/modern.md",
+    "movements/surrealizm.md",
+    "movements/dadaizm.md",
+    "movements/futurizm.md",
+    "movements/kubizm.md",
+    "movements/ekspresyonizm.md",
+    "artists/claude-monet.md",
+    "artists/juan-gris.md",
+    "movements",
+    "artists",
+    "sanat-tarihi/artists/pierre-auguste-renoir.md",
+    "sanat-tarihi/artists/pablo-picasso.md",
+    "sanat-tarihi/artists/juan-gris.md",
+    "sanat-tarihi/artists/georges-braque.md",
+    "sanat-tarihi/artists/ernst-ludwig-kirchner.md",
+    "sanat-tarihi/artists/egon-schiele.md",
+    "sanat-tarihi/artists/edvard-munch.md",
+    "sanat-tarihi/artists/edgar-degas.md",
+    "sanat-tarihi/artists/claude-monet.md",
+    "sanat-tarihi/movements",
+    "sanat-tarihi/artists",
+    "sanat-tarihi",
+    "chapters/cagdas.md",
     "Gemfile"
   ]
 }

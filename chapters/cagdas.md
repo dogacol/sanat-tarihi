@@ -13,7 +13,7 @@ layout: default
 
 ## Önemli Akımlar
 
-- Dijital Sanat
+- [Dijital Sanat](movements/dijitalsanat.md)
 - Post-İnternet Sanatı
 - İlişkisel Estetik
 - Sosyal Olarak Katılımcı Sanat

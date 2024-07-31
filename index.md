@@ -11,7 +11,7 @@ Dönemler ve genel kavramlar hazır olarak aşağıda sunulmuştur. Geriye kalan
 
 Örnek olarak aşağıdaki bölümler arasında gezinebilirsiniz:
 
-- [Çağdaş Sanat](chapters/cagdas.html)
-- [Postmodern Sanat](chapters/postmodern.html)
-- [Modern Sanat](chapters/modern.html)
-- [Romantik Sanat](romantik.md)
+- [Çağdaş](chapters/cagdas.html)
+- [Postmodern](chapters/postmodern.html)
+- [Modern](chapters/modern.html)
+- [Romantik](chapters/romantik.md)

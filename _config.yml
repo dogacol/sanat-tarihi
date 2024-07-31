@@ -1,0 +1,6 @@
+title: Sanat Tarihi Ders Kitabı
+description: Çağdaş dönemden geriye doğru sanat tarihini izleyen bir ders kitabı
+baseurl: "" # if the site is deployed at the root of a domain
+url: "https://dogacol.github.io/sanat-tarihi" # your GitHub Pages URL
+markdown: kramdown
+theme: minima
